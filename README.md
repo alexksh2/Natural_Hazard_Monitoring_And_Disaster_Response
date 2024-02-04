@@ -13,10 +13,16 @@ Once a wildfire is detected, response efforts are mobilized to contain and suppr
 
 
 ## Model Architecture
+Our proposed approach to forest fire monitoring and disaster response is built around three key elements: predictive analytics, reactive strategies, and human intervention.
+In the predictive phase, we employ a Long Short-Term Memory (LSTM) neural network model, designed for time series forecasting, to predict future temperatures. These predicted temperature values are then fed into an Artificial Neural Network (ANN) to forecast the likelihood of forest fires occurring. This combination of LSTM and ANN models forms a cohesive ensemble neural network architecture, engineered to deliver more accurate predictions as compared to a single model
 
-### 1. Predictive Stage
+
+In the reactive phase, 
+
+
+
+### LSTM-ANN Architecture
 ![Architecture-of-the-LSTM-ANN-network](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/c2816772-1483-488b-9e96-799851f24e4a)
-
 
 ### 2. Reactive Stage
 ![CNN Architecture](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/b48059d2-59aa-4a19-b421-41f21b0996e5)
