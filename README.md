@@ -13,8 +13,12 @@ Once a wildfire is detected, response efforts are mobilized to contain and suppr
 
 
 ## Model Architecture
+
+### 1. Predictive Stage
 ![Architecture-of-the-LSTM-ANN-network](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/c2816772-1483-488b-9e96-799851f24e4a)
 
+
+### 2. Reactive Stage
 ![CNN Architecture](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/b48059d2-59aa-4a19-b421-41f21b0996e5)
 
 ## Citation
