@@ -8,3 +8,8 @@ Early detection of wildfires is critical for effective response and management. 
 <br>
 <br>
 Once a wildfire is detected, response efforts are mobilized to contain and suppress the fire. This can involve ground crews using hand tools and heavy machinery to create containment lines, as well as aerial resources like helicopters and planes dropping water or fire retardant. The strategy and resources deployed depend on the fire’s characteristics and the terrain. Effective coordination among local, state, and federal agencies, as well as international cooperation in some cases, is crucial for the successful suppression of large wildfires
+
+## THE DATASET
+
+
+## MODEL ARCHITECTURE
