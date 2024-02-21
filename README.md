@@ -11,6 +11,8 @@ Once a wildfire is detected, response efforts are mobilized to contain and suppr
 
 ## The Dataset
 https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data
+https://archive.ics.uci.edu/dataset/162/forest+fires
+
 
 ## Model Architecture
 Our proposed approach to forest fire monitoring and disaster response is built around three key elements: predictive analytics, reactive strategies, and human intervention.
