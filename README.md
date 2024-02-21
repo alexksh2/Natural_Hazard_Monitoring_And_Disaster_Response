@@ -56,4 +56,13 @@ While the LSTM model is trained on this dataset, other datasets relating to Indo
 __ANN model__: https://archive.ics.uci.edu/dataset/162/forest+fires <br>
 __CNN model__: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data <br>
 
+
 ## Citation
+Barker, N. (2023, August 24). AI model by Aalto University team can predict how to prevent wildfires. Dezeen. https://www.dezeen.com/2023/08/24/ai-wildfire-model-firecnn-aalto-university-aitopia/#:~:text=Named%20FireCNN%20after%20its%20use <br><br>
+
+Zheng, S., Zou, X., Gao, P., Zhang, Q., Hu, F., Zhou, Y., Wu, Z., Wang, W., & Chen, S. (2024). A Forest Fire Recognition Method Based on Modified Deep CNN Model. Forests, 15(1), 111. https://doi.org/10.3390/f15010111 <br><br>
+
+Joosse, T. (2020, December 8). Human-sparked wildfires are more destructive than those caused by nature. Www.science.org. https://www.science.org/content/article/human-sparked-wildfires-are-more-destructive-those-caused-nature <br><br>
+
+
+Purnomo, H., Okarda, B., Shantiko, B., Achdiawan, R., Dermawan, A., Kartodihardjo, H., & Dewayani, A. A. (2019). Forest and Land Fires, Toxic Haze and Local Politics in  Indonesia. The International Forestry Review, 21(4), 486–500.  https://doi.org/10.1505/146554819827906799 <br><br>
