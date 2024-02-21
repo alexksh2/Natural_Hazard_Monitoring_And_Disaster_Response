@@ -11,7 +11,7 @@ Once a wildfire is detected, response efforts are mobilized to contain and suppr
 
 
 ## Problem
-Spanning across the different regions of Indonesia as well as the rest of Southeast Asia (SEA), forest fires have resulted in substantial economic losses estimated at USD 16.1 billion in 2015 alone; the deaths of 24 children and adults by December of that same year; geopolitical tensions within SEA due to the haze; environmental damage such as biodiversity loss and haze (Purnomo et. al, 2019). 
+__Spanning across the different regions of Indonesia as well as the rest of Southeast Asia (SEA), forest fires have resulted in substantial economic losses estimated at USD 16.1 billion in 2015 alone__; the deaths of 24 children and adults by December of that same year; geopolitical tensions within SEA due to the haze; environmental damage such as biodiversity loss and haze (Purnomo et. al, 2019). 
 
 
 
@@ -46,8 +46,8 @@ While ensemble techniques such as stacking could significantly improve predictio
 
 ## The Dataset
 
-Dataset used for LSTM model: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data <br>
-Dataset used for ANN model: https://archive.ics.uci.edu/dataset/162/forest+fires <br>
-Dataset used for CNN model: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data <br>
+__LSTM model__: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data <br>
+__ANN model__: https://archive.ics.uci.edu/dataset/162/forest+fires <br>
+__CNN model__: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data <br>
 
 ## Citation
