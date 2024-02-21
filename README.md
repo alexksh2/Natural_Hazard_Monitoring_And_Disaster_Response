@@ -47,14 +47,14 @@ While ensemble techniques such as stacking could significantly improve predictio
 
 ## The Dataset
 
-__LSTM model__: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data 
+__A. LSTM model__: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data 
 <br> 
 <br>
 The Dataset is fully dedicated for the developers who want to train the model on Weather Forecasting for Indian climate. This dataset provides data from 1st January 2013 to 24th April 2017 in the city of Delhi, India.
 While the LSTM model is trained on this dataset, other datasets relating to Indonesian climate can be used to train the model
 
-__ANN model__: https://archive.ics.uci.edu/dataset/162/forest+fires <br>
-__CNN model__: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data <br>
+__B. ANN model__: https://archive.ics.uci.edu/dataset/162/forest+fires <br>
+__C. CNN model__: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data <br>
 
 
 ## Citation
