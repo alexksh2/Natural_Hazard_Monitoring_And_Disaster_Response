@@ -40,6 +40,9 @@ In the predictive phase, we employ a Long Short-Term Memory (LSTM) neural networ
 ![CNN Architecture](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/b48059d2-59aa-4a19-b421-41f21b0996e5)
 
 
+### 3. Human Intervention
+While ensemble techniques such as stacking could significantly improve prediction accuracy, it is essential to acknowledge that these techniques may inadvertently amplify the prediction errors. Therefore, to account for the possible higher prediction error coupled with the black box nature of neural network models, a three-pronged approach (LSTM-ANN model to predict the occurrence of natural wildfires, CNN model to detect human-sparked wildfires and human-in-the-loop approach to monitor possible undetected wildfires) may be a more viable approach to effectively combat wildfires.
+
 
 ## The Dataset
 
