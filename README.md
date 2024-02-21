@@ -46,8 +46,8 @@ While ensemble techniques such as stacking could significantly improve predictio
 
 ## The Dataset
 
-https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data
-https://archive.ics.uci.edu/dataset/162/forest+fires
-https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data
+Dataset used for LSTM model: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data <br>
+Dataset used for ANN model: https://archive.ics.uci.edu/dataset/162/forest+fires <br>
+Dataset used for CNN model: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data <br>
 
 ## Citation
