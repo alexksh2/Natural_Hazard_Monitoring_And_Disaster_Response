@@ -23,6 +23,10 @@ In the predictive phase, we employ a Long Short-Term Memory (LSTM) neural networ
 
 ### 1. Predictive Capabilities
   The LSTM model will be used to forecast temperature, and the predictions will be utilised as one of the input features of ANN models to predict wildfire occurrence, thereby addressing the limited predictive capabilities of the FireCNN model deployed by Aalto researchers in Indonesia (Barker, N. 2023).
+
+<br>
+<br>
+
 ![Architecture-of-the-LSTM-ANN-network](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/c2816772-1483-488b-9e96-799851f24e4a)
 
 <br>
