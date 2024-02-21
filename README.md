@@ -70,10 +70,10 @@ __C. CNN model__: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-i
 <br>
 <br> 
 
-Test Image abc175
+__Test Image abc175__ <br>
 ![abc175](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/2eec62f5-c8d6-4f4a-ba7f-f9e044bc60bf)
 
-Test Image 363
+__Test Image 363__ <br>
 ![abc363](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/ed4d72bb-69a4-4559-9cab-d1a6e899a4f4)
 
 
