@@ -32,6 +32,7 @@ haze__ (Purnomo et. al, 2019).
 
 
 <br>
+
 ### 1. Predictive Capabilities
  The LSTM model will be used to forecast temperature, and the predictions will be utilised as one of the input features of ANN models to predict wildfire occurrence, thereby __addressing the limited predictive capabilities of the FireCNN model deployed by Aalto researchers in Indonesia__ (Barker, N. 2023).
 
