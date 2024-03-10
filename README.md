@@ -17,7 +17,7 @@ Our proposed approach to forest fire monitoring and disaster response is built a
 __In the predictive phase, we will deploy a Long Short-Term Memory (LSTM) neural network model, designed for time series forecasting, to predict future temperatures. These predicted temperature values are then fed into an Artificial Neural Network (ANN) to forecast the likelihood of forest fires occurring__. This combination of LSTM and ANN models forms a cohesive ensemble neural network architecture, engineered to deliver more accurate predictions as compared to a single model.
 
 
-
+<!--
 ## Problem
 
 Spanning across the different regions of Indonesia as well as the rest of Southeast Asia (SEA), forest fires have resulted in substantial economic losses estimated at __USD 16.1 billion in 2015 alone; the deaths of 24 children and adults by December of that same year; geopolitical tensions within SEA due to the haze; environmental damage such as biodiversity loss and 
@@ -28,8 +28,8 @@ haze__ (Purnomo et. al, 2019).
 
 <br>
 
-
-
+-->
+<!--
 
 <br>
 
@@ -56,6 +56,8 @@ approach will further leverage on image feature recognition capabilities of CNN 
 
 ### 3. Human Intervention
 While ensemble techniques such as stacking could significantly improve prediction accuracy, it is essential to acknowledge that these techniques may inadvertently amplify the prediction errors. Therefore, to account for the possible higher prediction error coupled with the black box nature of neural network models, __a three-pronged approach (LSTM-ANN model to predict the occurrence of natural wildfires, CNN model to detect human-sparked wildfires and human-in-the-loop approach to monitor possible undetected wildfires)__ may be a more viable approach to effectively combat wildfires.
+
+-->
 
 
 ## The Dataset
