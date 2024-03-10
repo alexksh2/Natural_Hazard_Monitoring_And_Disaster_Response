@@ -20,8 +20,8 @@ __In the predictive phase, we will deploy a Long Short-Term Memory (LSTM) neural
 
 ## Problem
 
-// Spanning across the different regions of Indonesia as well as the rest of Southeast Asia (SEA), forest fires have resulted in substantial economic losses estimated at __USD 16.1 billion in 2015 alone; the deaths of 24 children and adults by December of that same year; geopolitical tensions within SEA due to the haze; environmental damage such as biodiversity loss and 
-// haze__ (Purnomo et. al, 2019). 
+Spanning across the different regions of Indonesia as well as the rest of Southeast Asia (SEA), forest fires have resulted in substantial economic losses estimated at __USD 16.1 billion in 2015 alone; the deaths of 24 children and adults by December of that same year; geopolitical tensions within SEA due to the haze; environmental damage such as biodiversity loss and 
+haze__ (Purnomo et. al, 2019). 
 
 ![Forest Fires](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/05dadd32-7735-4066-a39b-60fcb5775cfc)
 
