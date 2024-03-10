@@ -25,9 +25,9 @@ Our proposed approach to forest fire monitoring and disaster response is built a
 __In the predictive phase, we will deploy a Long Short-Term Memory (LSTM) neural network model, designed for time series forecasting, to predict future temperatures. These predicted temperature values are then fed into an Artificial Neural Network (ANN) to forecast the likelihood of forest fires occurring__. This combination of LSTM and ANN models forms a cohesive ensemble neural network architecture, engineered to deliver more accurate predictions as compared to a single model.
 
 <br>
-
+<!-- 
 ### 1. Predictive Capabilities
-//  The LSTM model will be used to forecast temperature, and the predictions will be utilised as one of the input features of ANN models to predict wildfire occurrence, thereby __addressing the limited predictive capabilities of the FireCNN model deployed by Aalto researchers in Indonesia__ (Barker, N. 2023).
+ The LSTM model will be used to forecast temperature, and the predictions will be utilised as one of the input features of ANN models to predict wildfire occurrence, thereby __addressing the limited predictive capabilities of the FireCNN model deployed by Aalto researchers in Indonesia__ (Barker, N. 2023).
 
 <br>
 <br>
@@ -36,10 +36,11 @@ __In the predictive phase, we will deploy a Long Short-Term Memory (LSTM) neural
 
 <br>
 
-// ### 2. Reactive Approach
-//  While the ensemble deep learning model could generate accurate predictions on wildfire occurrence, it is essential to recognise that wildfires may arise due to human ignition, as reported by 87% of United States wildfire incidents (Joosse, T. 2020). In these inherently complex scenarios, __the LSTM-ANN model may be insufficient in managing wildfires and thus our //
-// approach will further leverage on image feature recognition capabilities of CNN model__. Through the analysis of satellite images, the CNN model allows large-scale real-time surveillance of forest fires in remote and inaccessible areas (Zheng, S. et al. 2024).
+### 2. Reactive Approach
+While the ensemble deep learning model could generate accurate predictions on wildfire occurrence, it is essential to recognise that wildfires may arise due to human ignition, as reported by 87% of United States wildfire incidents (Joosse, T. 2020). In these inherently complex scenarios, __the LSTM-ANN model may be insufficient in managing wildfires and thus our //
+approach will further leverage on image feature recognition capabilities of CNN model__. Through the analysis of satellite images, the CNN model allows large-scale real-time surveillance of forest fires in remote and inaccessible areas (Zheng, S. et al. 2024).
 
+-->
 <br>
 <br>
 
