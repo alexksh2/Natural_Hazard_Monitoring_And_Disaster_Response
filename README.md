@@ -47,13 +47,3 @@ __Test Image abc363 (Prediction: No Fire)__ <br>
 ![abc363](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/ed4d72bb-69a4-4559-9cab-d1a6e899a4f4)
 
 
-
-## Citation
-Barker, N. (2023, August 24). AI model by Aalto University team can predict how to prevent wildfires. Dezeen. https://www.dezeen.com/2023/08/24/ai-wildfire-model-firecnn-aalto-university-aitopia/#:~:text=Named%20FireCNN%20after%20its%20use <br>
-
-Zheng, S., Zou, X., Gao, P., Zhang, Q., Hu, F., Zhou, Y., Wu, Z., Wang, W., & Chen, S. (2024). A Forest Fire Recognition Method Based on Modified Deep CNN Model. Forests, 15(1), 111. https://doi.org/10.3390/f15010111 <br>
-
-Joosse, T. (2020, December 8). Human-sparked wildfires are more destructive than those caused by nature. Www.science.org. https://www.science.org/content/article/human-sparked-wildfires-are-more-destructive-those-caused-nature <br>
-
-
-Purnomo, H., Okarda, B., Shantiko, B., Achdiawan, R., Dermawan, A., Kartodihardjo, H., & Dewayani, A. A. (2019). Forest and Land Fires, Toxic Haze and Local Politics in  Indonesia. The International Forestry Review, 21(4), 486–500.  https://doi.org/10.1505/146554819827906799 <br>
