@@ -18,6 +18,49 @@ __In the predictive phase, we will deploy a Long Short-Term Memory (LSTM) neural
 
 
 
+
+## Problem
+
+Spanning across the different regions of Indonesia as well as the rest of Southeast Asia (SEA), forest fires have resulted in substantial economic losses estimated at __USD 16.1 billion in 2015 alone; the deaths of 24 children and adults by December of that same year; geopolitical tensions within SEA due to the haze; environmental damage such as biodiversity loss and 
+haze__ (Purnomo et. al, 2019). 
+
+![Forest Fires](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/05dadd32-7735-4066-a39b-60fcb5775cfc)
+
+
+<br>
+
+
+
+
+
+<br>
+
+### 1. Predictive Capabilities
+ The LSTM model will be used to forecast temperature, and the predictions will be utilised as one of the input features of ANN models to predict wildfire occurrence, thereby __addressing the limited predictive capabilities of the FireCNN model deployed by Aalto researchers in Indonesia__ (Barker, N. 2023).
+
+<br>
+<br>
+
+![Architecture-of-the-LSTM-ANN-network](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/c2816772-1483-488b-9e96-799851f24e4a)
+
+<br>
+
+### 2. Reactive Approach
+While the ensemble deep learning model could generate accurate predictions on wildfire occurrence, it is essential to recognise that wildfires may arise due to human ignition, as reported by 87% of United States wildfire incidents (Joosse, T. 2020). In these inherently complex scenarios, __the LSTM-ANN model may be insufficient in managing wildfires and thus our //
+approach will further leverage on image feature recognition capabilities of CNN model__. Through the analysis of satellite images, the CNN model allows large-scale real-time surveillance of forest fires in remote and inaccessible areas (Zheng, S. et al. 2024).
+
+
+<br>
+<br>
+
+![CNN Architecture](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/b48059d2-59aa-4a19-b421-41f21b0996e5)
+
+
+### 3. Human Intervention
+While ensemble techniques such as stacking could significantly improve prediction accuracy, it is essential to acknowledge that these techniques may inadvertently amplify the prediction errors. Therefore, to account for the possible higher prediction error coupled with the black box nature of neural network models, __a three-pronged approach (LSTM-ANN model to predict the occurrence of natural wildfires, CNN model to detect human-sparked wildfires and human-in-the-loop approach to monitor possible undetected wildfires)__ may be a more viable approach to effectively combat wildfires.
+
+
+
 ## The Dataset
 
 __A. LSTM model__: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data 
@@ -47,3 +90,14 @@ __Test Image abc363 (Prediction: No Fire)__ <br>
 ![abc363](https://github.com/alexksh2/Natural_Hazard_Monitoring_And_Disaster_Response/assets/138288828/ed4d72bb-69a4-4559-9cab-d1a6e899a4f4)
 
 
+
+
+## Citation
+Barker, N. (2023, August 24). AI model by Aalto University team can predict how to prevent wildfires. Dezeen. https://www.dezeen.com/2023/08/24/ai-wildfire-model-firecnn-aalto-university-aitopia/#:~:text=Named%20FireCNN%20after%20its%20use <br>
+
+Zheng, S., Zou, X., Gao, P., Zhang, Q., Hu, F., Zhou, Y., Wu, Z., Wang, W., & Chen, S. (2024). A Forest Fire Recognition Method Based on Modified Deep CNN Model. Forests, 15(1), 111. https://doi.org/10.3390/f15010111 <br>
+
+Joosse, T. (2020, December 8). Human-sparked wildfires are more destructive than those caused by nature. Www.science.org. https://www.science.org/content/article/human-sparked-wildfires-are-more-destructive-those-caused-nature <br>
+
+
+Purnomo, H., Okarda, B., Shantiko, B., Achdiawan, R., Dermawan, A., Kartodihardjo, H., & Dewayani, A. A. (2019). Forest and Land Fires, Toxic Haze and Local Politics in  Indonesia. The International Forestry Review, 21(4), 486–500.  https://doi.org/10.1505/146554819827906799 <br>
