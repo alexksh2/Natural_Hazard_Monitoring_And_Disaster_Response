@@ -77,8 +77,8 @@ __C. CNN model__: https://www.kaggle.com/datasets/brsdincer/wildfire-detection-i
 
 ## Prediction Result
 
-1. ANN model has over 70% predictive accuracy
-2. Correct Predictions on Test Image for CNN Model
+1. __ANN model has over 70% predictive accuracy__
+2. __Correct Predictions on Test Image for CNN Model__
 
 <br>
 <br> 
